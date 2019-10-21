@@ -1,0 +1,5 @@
+ ses-smtp-user.20191014-171436
+SMTP Username:
+AKIA6PHK3RJMVNPWDT7O
+SMTP Password:
+BMnn/HxE0hXlUf16tyyL5KYzczGwydIF2Smk09trCbiB
